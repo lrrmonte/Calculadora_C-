@@ -1,0 +1,11 @@
+C:\Users\linco\OneDrive\Documentos\CalculadoraC#\Calc_padrao\Calc_padrao\bin\Debug\Calc_padrao.exe.config
+C:\Users\linco\OneDrive\Documentos\CalculadoraC#\Calc_padrao\Calc_padrao\bin\Debug\Calc_padrao.exe
+C:\Users\linco\OneDrive\Documentos\CalculadoraC#\Calc_padrao\Calc_padrao\bin\Debug\Calc_padrao.pdb
+C:\Users\linco\OneDrive\Documentos\CalculadoraC#\Calc_padrao\Calc_padrao\obj\Debug\Calc_padrao.csproj.AssemblyReference.cache
+C:\Users\linco\OneDrive\Documentos\CalculadoraC#\Calc_padrao\Calc_padrao\obj\Debug\Calc_padrao.csproj.SuggestedBindingRedirects.cache
+C:\Users\linco\OneDrive\Documentos\CalculadoraC#\Calc_padrao\Calc_padrao\obj\Debug\Calc_padrao.Form1.resources
+C:\Users\linco\OneDrive\Documentos\CalculadoraC#\Calc_padrao\Calc_padrao\obj\Debug\Calc_padrao.Properties.Resources.resources
+C:\Users\linco\OneDrive\Documentos\CalculadoraC#\Calc_padrao\Calc_padrao\obj\Debug\Calc_padrao.csproj.GenerateResource.cache
+C:\Users\linco\OneDrive\Documentos\CalculadoraC#\Calc_padrao\Calc_padrao\obj\Debug\Calc_padrao.csproj.CoreCompileInputs.cache
+C:\Users\linco\OneDrive\Documentos\CalculadoraC#\Calc_padrao\Calc_padrao\obj\Debug\Calc_padrao.exe
+C:\Users\linco\OneDrive\Documentos\CalculadoraC#\Calc_padrao\Calc_padrao\obj\Debug\Calc_padrao.pdb
