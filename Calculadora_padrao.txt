@@ -34,6 +34,7 @@ namespace Calc_padrao
                 tb_numero.Text = num.ToString();
 
             clicar_operadores = false;
+
         }
         private void operadores(string operacao)
         {
@@ -44,6 +45,7 @@ namespace Calc_padrao
             num1 =double.Parse(tb_numero.Text);
             ativar_calculo=true;
         }
+
         private void calcular()
         {
             num2=double.Parse(tb_numero.Text);
